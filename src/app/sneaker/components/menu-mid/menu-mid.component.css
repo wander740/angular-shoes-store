@@ -1,0 +1,29 @@
+.menu-mid_content{
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.menu-mid_left p{
+  margin-bottom: 2rem;
+}
+
+.menu-mid_right ul{
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  line-height: 25px;
+}
+
+.menu-mid_right li{
+  margin-right: 15px;
+  text-decoration: underline;
+}
+
+@media screen and (min-width: 1200px){
+  .menu-mid_content{
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: -1rem;
+  }
+}

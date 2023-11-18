@@ -5,13 +5,15 @@ import { SneakerRoutingModule } from './sneaker-routing.module';
 import { HomePageComponent } from './containers/home-page/home-page.component';
 import { HeaderComponent } from './components/header/header.component';
 import { CardHomeComponent } from './components/card-home/card-home.component';
+import { MenuMidComponent } from './components/menu-mid/menu-mid.component';
 
 
 @NgModule({
   declarations: [
     HomePageComponent,
     HeaderComponent,
-    CardHomeComponent
+    CardHomeComponent,
+    MenuMidComponent
   ],
   imports: [
     CommonModule,
