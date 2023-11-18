@@ -18,3 +18,9 @@
   grid-template-columns: 1fr;
   grid-column-gap: 32px;
 }
+
+.our-service h1{
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 3rem;
+}

@@ -16,4 +16,8 @@
   .cards_shoes{
     grid-template-columns: 1fr 1fr;
   }
+
+  .our-service h1{
+    font-size: 4rem;
+  }
 }

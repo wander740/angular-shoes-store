@@ -1,0 +1,14 @@
+.card-our-service_content{
+  display: flex;
+  flex-direction: column;
+  margin: 1rem 0;
+}
+
+.card-our-service_left{
+  font-size: 1.5rem;
+  margin-bottom: 1.8rem;
+}
+
+.card-our-service_right{
+  line-height: 30px;
+}
