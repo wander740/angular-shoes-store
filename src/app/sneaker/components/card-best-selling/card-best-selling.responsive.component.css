@@ -1,0 +1,12 @@
+@media screen and (min-width: 1200px){
+  .card-best-selling_flex{
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-end;
+  }
+
+  .card-best-selling_content h1{
+    font-size: 6rem;
+    margin-bottom: .8rem;
+  }
+}

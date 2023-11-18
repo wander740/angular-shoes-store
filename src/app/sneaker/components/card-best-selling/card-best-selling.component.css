@@ -1,0 +1,28 @@
+.card-best-selling_flex{
+  height: 100%;
+  background-color: transparent;
+  display: flex;
+  align-items: flex-end;
+}
+
+.card-best-selling_content{
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+}
+
+.card-best-selling_content h1, p, a{
+  text-align: left;
+  background-color: transparent;
+  color: #000;
+}
+
+.card-best-selling_content h1{
+  font-size: 3rem;
+  margin-bottom: .8rem;
+}
+
+.card-best-selling_content p{
+  margin-bottom: 2rem;
+}
+

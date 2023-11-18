@@ -7,6 +7,8 @@ import { HeaderComponent } from './components/header/header.component';
 import { CardHomeComponent } from './components/card-home/card-home.component';
 import { MenuMidComponent } from './components/menu-mid/menu-mid.component';
 import { CardVarietyComponent } from './components/card-variety/card-variety.component';
+import { CardOurServiceComponent } from './components/card-our-service/card-our-service.component';
+import { CardBestSellingComponent } from './components/card-best-selling/card-best-selling.component';
 
 
 @NgModule({
@@ -15,7 +17,9 @@ import { CardVarietyComponent } from './components/card-variety/card-variety.com
     HeaderComponent,
     CardHomeComponent,
     MenuMidComponent,
-    CardVarietyComponent
+    CardVarietyComponent,
+    CardOurServiceComponent,
+    CardBestSellingComponent
   ],
   imports: [
     CommonModule,
