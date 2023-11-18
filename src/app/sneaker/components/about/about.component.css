@@ -1,0 +1,30 @@
+.about_content{
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.about_left{
+  margin-bottom: 1rem;
+}
+
+.about_left p{
+  margin-bottom: 1rem;
+}
+
+.about_contact ul{
+  list-style: none;
+  margin-right: 18px;
+}
+
+.about_right ul{
+  list-style: none;
+}
+
+.about_right li{
+  margin-bottom: 10px;
+}
+
+.about_contact{
+  display: flex;
+}

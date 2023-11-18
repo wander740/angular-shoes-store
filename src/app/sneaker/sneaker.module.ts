@@ -10,6 +10,7 @@ import { CardVarietyComponent } from './components/card-variety/card-variety.com
 import { CardOurServiceComponent } from './components/card-our-service/card-our-service.component';
 import { CardBestSellingComponent } from './components/card-best-selling/card-best-selling.component';
 import { PriceShoesComponent } from './components/price-shoes/price-shoes.component';
+import { AboutComponent } from './components/about/about.component';
 
 
 @NgModule({
@@ -21,7 +22,8 @@ import { PriceShoesComponent } from './components/price-shoes/price-shoes.compon
     CardVarietyComponent,
     CardOurServiceComponent,
     CardBestSellingComponent,
-    PriceShoesComponent
+    PriceShoesComponent,
+    AboutComponent
   ],
   imports: [
     CommonModule,
