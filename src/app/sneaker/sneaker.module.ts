@@ -11,6 +11,7 @@ import { CardOurServiceComponent } from './components/card-our-service/card-our-
 import { CardBestSellingComponent } from './components/card-best-selling/card-best-selling.component';
 import { PriceShoesComponent } from './components/price-shoes/price-shoes.component';
 import { AboutComponent } from './components/about/about.component';
+import { FooterComponent } from './components/footer/footer.component';
 
 
 @NgModule({
@@ -23,7 +24,8 @@ import { AboutComponent } from './components/about/about.component';
     CardOurServiceComponent,
     CardBestSellingComponent,
     PriceShoesComponent,
-    AboutComponent
+    AboutComponent,
+    FooterComponent
   ],
   imports: [
     CommonModule,

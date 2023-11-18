@@ -1,0 +1,25 @@
+footer{
+  display: flex;
+  flex-direction: column;
+}
+
+.footer_left{
+  margin-bottom: 20px;
+}
+
+.footer_left ul{
+  list-style: none;
+  display: flex;
+}
+
+.footer_left li{
+  margin-right: 30px;
+}
+
+@media screen and (min-width: 1200px){
+  footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+}

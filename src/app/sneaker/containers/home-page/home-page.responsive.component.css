@@ -5,6 +5,10 @@
 }
 
 @media screen and (min-width: 1200px){
+  .section_content{
+    padding: 3rem;
+  }
+
   .main_title{
     font-size: 8rem;
   }
@@ -26,5 +30,9 @@
     background-size: 100% auto;
     background-position-x: center;
     background-position-y: top;
+  }
+
+  .footer_content{
+    padding: 3rem;
   }
 }
