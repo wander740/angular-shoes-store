@@ -4,13 +4,13 @@
   }
 }
 
-@media screen and (min-width: 1200px){
+@media screen and (min-width: 730px){
   .section_content{
     padding: 3rem;
   }
 
   .main_title{
-    font-size: 8rem;
+    font-size: 5rem;
   }
 
   .variety_shoes-title{
@@ -34,5 +34,11 @@
 
   .footer_content{
     padding: 3rem;
+  }
+}
+
+@media screen and (min-width: 1200px){
+  .main_title{
+    font-size: 8rem;
   }
 }

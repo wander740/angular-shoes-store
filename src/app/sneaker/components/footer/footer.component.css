@@ -16,7 +16,7 @@ footer{
   margin-right: 30px;
 }
 
-@media screen and (min-width: 1200px){
+@media screen and (min-width: 730px){
   footer{
     display: flex;
     flex-direction: row;
