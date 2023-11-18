@@ -20,6 +20,11 @@
   text-decoration: underline;
 }
 
+.menu-mid_right li:hover{
+  text-decoration: none;
+  cursor: pointer;
+}
+
 @media screen and (min-width: 730px){
   .menu-mid_content{
     flex-direction: row;

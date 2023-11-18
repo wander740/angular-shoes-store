@@ -25,6 +25,11 @@
   margin-bottom: 10px;
 }
 
+.about_right li:hover{
+  cursor: pointer;
+  text-decoration: underline;
+}
+
 .about_contact{
   display: flex;
 }

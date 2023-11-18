@@ -19,6 +19,12 @@
   grid-column-gap: 32px;
 }
 
+.stock_shoes{
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-column-gap: 32px;
+}
+
 .our-service h1{
   text-align: center;
   font-size: 2rem;
@@ -38,7 +44,7 @@
 }
 
 .stock_now h1{
-  font-size: 2rem;
+  font-size: 4rem;
   margin: 1rem 0;
 }
 

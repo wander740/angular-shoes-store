@@ -8,4 +8,5 @@ import { Component, Input } from '@angular/core';
 export class CardVarietyComponent {
   @Input() type: string = '';
   @Input() image: string = '';
+  @Input() description: string = '';
 }

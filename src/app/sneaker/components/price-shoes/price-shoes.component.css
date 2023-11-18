@@ -1,4 +1,25 @@
+.price-shoes_content{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
 .price-shoes_description{
   display: flex;
   justify-content: space-between;
+}
+
+.price-shoes_img{
+  margin-bottom: .8rem;
+}
+
+.price-shoes_img img{
+  width: 100%;
+  height: auto;
+}
+
+@media screen and (min-width: 730px){
+  .price-shoes_img img{
+    max-height: 200px;
+  }
 }

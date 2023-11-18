@@ -6,6 +6,7 @@ header{
 
 .header-title{
   font-size: 1.6rem;
+  cursor: pointer;
 }
 
 .header-menu i{
@@ -18,5 +19,11 @@ header{
 }
 
 .menu_hidden li{
-  margin-right: 25px;
+  padding: .6rem;
+}
+
+.menu_hidden li:hover{
+  cursor: pointer;
+  background-color: darkgray;
+  border-radius: 20px;
 }
