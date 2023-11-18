@@ -8,4 +8,12 @@
   .main_title{
     font-size: 8rem;
   }
+
+  .variety_shoes-title{
+    font-size: 4rem;
+  }
+
+  .cards_shoes{
+    grid-template-columns: 1fr 1fr;
+  }
 }

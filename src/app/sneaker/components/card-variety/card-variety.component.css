@@ -1,0 +1,27 @@
+.card-variety_content{
+  margin-bottom: 3rem;
+}
+
+.card-variety_img img{
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+.card-variety_description{
+  display: flex;
+  justify-content: space-between;
+}
+
+.card-variety_description p{
+  font-size: 20px;
+  text-transform: capitalize;
+}
+
+.card-variety_description i{
+  width: 70px;
+  border: 1px solid #676767;
+  border-radius: 50px;
+  font-size: 20px;
+  text-align: center;
+  cursor: pointer;
+}

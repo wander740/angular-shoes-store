@@ -6,6 +6,7 @@ import { HomePageComponent } from './containers/home-page/home-page.component';
 import { HeaderComponent } from './components/header/header.component';
 import { CardHomeComponent } from './components/card-home/card-home.component';
 import { MenuMidComponent } from './components/menu-mid/menu-mid.component';
+import { CardVarietyComponent } from './components/card-variety/card-variety.component';
 
 
 @NgModule({
@@ -13,7 +14,8 @@ import { MenuMidComponent } from './components/menu-mid/menu-mid.component';
     HomePageComponent,
     HeaderComponent,
     CardHomeComponent,
-    MenuMidComponent
+    MenuMidComponent,
+    CardVarietyComponent
   ],
   imports: [
     CommonModule,
