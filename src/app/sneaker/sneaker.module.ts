@@ -9,6 +9,7 @@ import { MenuMidComponent } from './components/menu-mid/menu-mid.component';
 import { CardVarietyComponent } from './components/card-variety/card-variety.component';
 import { CardOurServiceComponent } from './components/card-our-service/card-our-service.component';
 import { CardBestSellingComponent } from './components/card-best-selling/card-best-selling.component';
+import { PriceShoesComponent } from './components/price-shoes/price-shoes.component';
 
 
 @NgModule({
@@ -19,7 +20,8 @@ import { CardBestSellingComponent } from './components/card-best-selling/card-be
     MenuMidComponent,
     CardVarietyComponent,
     CardOurServiceComponent,
-    CardBestSellingComponent
+    CardBestSellingComponent,
+    PriceShoesComponent
   ],
   imports: [
     CommonModule,

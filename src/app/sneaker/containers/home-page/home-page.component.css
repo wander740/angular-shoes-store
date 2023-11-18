@@ -36,3 +36,8 @@
   background-position-x: center;
   background-position-y: bottom;
 }
+
+.stock_now h1{
+  font-size: 2rem;
+  margin: 1rem 0;
+}
