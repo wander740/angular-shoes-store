@@ -1,47 +1,47 @@
-.car-home_content{
+.card-home_content{
   margin-bottom: 1rem;
 }
 
-.car-home_description{
+.card-home_description{
   display: flex;
   flex-direction: column;
 }
 
-.car-home_description_text{
+.card-home_description_text{
   margin-bottom: 1rem;
   display: flex;
   flex-direction: column;
 }
 
-.car-home_description_text h1{
+.card-home_description_text h1{
   margin-bottom: 1rem;
 }
 
-.car-home_description_text p{
+.card-home_description_text p{
   margin-bottom: 1rem;
 }
 
-.car-home_description_size{
+.card-home_description_size{
   margin-bottom: 1rem;
 }
 
-.car-home_description_size p{
+.card-home_description_size p{
   margin-bottom: 1rem;
 }
 
-.car-home_description_size ul{
+.card-home_description_size ul{
   list-style: none;
   display: flex;
 }
 
-.car-home_description_size ul li{
+.card-home_description_size ul li{
   border: 1px solid #676767;
   border-radius: 5px;
   padding: 5px;
   margin-right: 16px;
 }
 
-.car-home_image{
+.card-home_image{
   height: calc(60vh - 84px);
   max-width: 100vw;
   background-image: url("/assets/images/shows.jpg");
@@ -51,7 +51,7 @@
   text-align: center;
 }
 
-.car-home_image-content{
+.card-home_image-content{
   height: 100%;
   background-color: rgba(0, 0, 0, 0.349);
 }
